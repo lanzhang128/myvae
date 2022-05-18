@@ -1,0 +1,11 @@
+{
+    "emb_dim": 200,
+    "lstm_dim": 512,
+    "z_dim": 8,
+    "epochs": 10,
+    "batch_size": 128,
+    "lr": 0.001,
+    "max_length": 75,
+    "is_bert_encoder": false,
+    "bert_type": "bert-base-uncased"
+}
